@@ -1,0 +1,1 @@
+AI Chatbot is built using LLaMA 4 Scout via Groq API. You need to install libraries mentioned in the requirements.txt file to use this AI Chatbot. Run the launch.py file to start chatting with the bot.
